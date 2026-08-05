@@ -519,6 +519,8 @@ const POST_CONDITIONS = [
   'stx-postcondition',
   'ft-postcondition',
   'nft-postcondition',
+  'staking-postcondition',
+  'pox-postcondition',
 ] satisfies PostCondition['type'][];
 
 /**
